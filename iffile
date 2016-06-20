@@ -1,6 +1,6 @@
-aaath0      Link encap:Ethernet  HWaddr b8:27:eb:49:e3:4a  
-aa        inet addr:192.168.1.171  Bcast:192.168.1.255  Mask:255.255.255.0
-aaa          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+qqqth0      Link encap:Ethernet  HWaddr b8:27:eb:49:e3:4a  
+qq       inet addr:192.168.1.171  Bcast:192.168.1.255  Mask:255.255.255.0
+qqq          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
 e aaa        RX packets:3485 errors:0 dropped:0 overruns:0 frame:0
 aaa          TX packets:2873 errors:0 dropped:0 overruns:0 carrier:0
           collisions:0 txqueuelen:1000 
